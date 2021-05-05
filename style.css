@@ -1,0 +1,134 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#E8F8F5;
+}
+.pagetitle {
+    text-align: center;
+}
+.username {
+    text-align: center;
+}
+.signoutbutton {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.listoffiles {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.uploadsection {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: white;
+}
+.uploadform {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: white;
+}
+.uploadlabel {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: white;
+}
+.uploadheader {
+    background-color: white;
+}
+.upload1, .upload2, .upload3, .upload4 {
+    background-color: white;
+}
+.viewform {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: #55efc4;
+}
+.viewlabel {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: #55efc4;
+}
+.viewheader {
+    background-color: #55efc4;
+}
+.downloadform {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: #ffeaa7;
+}
+.downloadlabel {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: #ffeaa7;
+}
+.downloadheader {
+    background-color: #ffeaa7;
+}
+.deleteform {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: #ff7675;
+}
+.deletelabel {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: #ff7675;
+}
+.deleteheader {
+    background-color: #ff7675;
+}
+h3 {
+    text-align: center;
+    font-style: italic;
+}
+.uploadsection {
+    width: 50%;
+    background-color: white;
+}
+.viewsection, .downloadsection, .deletesection {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.viewsection {
+    background-color: #55efc4;
+}
+.downloadsection {
+    background-color: #ffeaa7;
+}
+.deletesection {
+    background-color: #ff7675;
+}
+input[type=submit] {
+    background-color: white;
+}
+.functions {
+    position: relative;
+}
+.listoffiles {
+    width: 19%;
+    z-index: 3000000;
+    position: relative;
+    left: -500px;
+    top: -700px;
+}

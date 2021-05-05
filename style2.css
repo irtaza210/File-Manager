@@ -1,0 +1,35 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#E8F8F5;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+.deleteuserform {
+    width: 50%;
+    background-color:#FFFFD5;
+}
+.deleteuserheader {
+    background-color: #FFFFD5;
+}
+.signupform {
+    width: 50%;
+    background-color:#DFFFA5;
+}
+.signupheader {
+    background-color: #DFFFA5;
+}
+.loginform {
+    width: 50%;
+    background-color: #FAEBEB;
+}
+.loginheader {
+    background-color: #FAEBEB;
+}
+h3 {
+    font-style: italic;
+}
+input[type=submit] {
+    background-color: white;
+}
